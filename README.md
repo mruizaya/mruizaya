@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mruizaya
 - 👀 I’m interested in developing software and coding, mostly learning from projects
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any project that furthers my skills and expirience
 - 📫 How to reach me: email: mruiza@estud.usfq.edu.ec Ig: @martin_andrz
 
